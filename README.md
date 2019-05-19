@@ -1,2 +1,2 @@
-# MobileAppAutomayionTest
-MobileAppAutomayionTest
+# MobileAppAutomationTest
+
